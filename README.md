@@ -10,6 +10,15 @@ Building scalable web applications, real-time systems, and modern full-stack pro
 
 ---
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;System+Design+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Applications"
+    alt="Typing SVG"
+  />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 💻 Full Stack Developer passionate about scalable architecture
@@ -42,6 +51,10 @@ Building scalable web applications, real-time systems, and modern full-stack pro
 
 <a href="https://www.hackerrank.com/sunilgoswami551" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank" height="40"/>
+</a>
+
+<a href="https://leetcode.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="40"/>
 </a>
 
 </p>
@@ -118,21 +131,33 @@ React.js • Node.js • Express.js • MongoDB
 
 ---
 
-# 📊 GitHub Stats
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
 <img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=sunilbhara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+width="49%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunilbhara&theme=tokyonight" 
 />
 
 <img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilbhara&layout=compact&theme=tokyonight&hide_border=true"
+width="49%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunilbhara&theme=tokyonight" 
 />
 
 </p>
+
+<p align="center">
+
+<img 
+width="98%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilbhara&theme=tokyonight" 
+/>
+
+</p>
+
+
 
 ---
 
@@ -141,7 +166,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilbhara&l
 <p align="center">
 
 <img 
-src="https://streak-stats.demolab.com?user=sunilbhara&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=sunilbhara&theme=tokyonight&hide_border=true" 
+alt="GitHub Streak" 
 />
 
 </p>
@@ -156,6 +182,14 @@ src="https://streak-stats.demolab.com?user=sunilbhara&theme=tokyonight&hide_bord
 src="https://github-readme-activity-graph.vercel.app/graph?username=sunilbhara&theme=tokyo-night&hide_border=true"
 />
 
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunilbhara/sunilbhara/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
