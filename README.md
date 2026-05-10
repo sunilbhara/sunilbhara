@@ -203,9 +203,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sunilbhara&t
 
 ---
 
-# 💡 Developer Quote
+# 💡 
 
-> “First, solve the problem. Then, write the code.”
+> “Build. Break. Learn. Repeat.”
 
 ---
 
